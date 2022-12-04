@@ -61,6 +61,11 @@ p {
   border: 1px solid var(--primary-color);
 }
 
+.project-link {
+  display: block;
+  text-align: center;
+  margin: 0 20px;
+}
 .homepage-link {
   color: var(--primary-color);
   text-align: center;
@@ -87,9 +92,6 @@ p {
   text-decoration: underline;
 }
 @media (max-width: 2000px) {
-  .image {
-    display: none;
-  }
   h2,
   p {
     text-align: center;
