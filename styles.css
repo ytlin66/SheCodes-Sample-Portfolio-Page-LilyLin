@@ -91,7 +91,7 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
-@media (max-width: 2000px) {
+@media (max-width: 600px) {
   h2,
   p {
     text-align: center;
