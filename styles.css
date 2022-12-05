@@ -97,3 +97,7 @@ p {
     text-align: center;
   }
 }
+.image {
+  width: 100px;
+  display: block;
+}
